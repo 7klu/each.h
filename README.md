@@ -1,7 +1,7 @@
-# each.h
+# `📜` each.h
 
 > [!NOTE]
-> Add a foreach loop implementation for iterating over arrays in C and C++.
+> **Add** a **foreach loop** implementation for iterating over arrays in **C** and **C++**.
 
 ```c
 #include <stdio.h>
