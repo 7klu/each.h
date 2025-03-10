@@ -9,8 +9,8 @@
 
 void testfunc(void *element)
 {
-    int *array = (int *)element;
-    printf("%d, ", *array);
+    int *value = (int *)element;
+    printf("%d, ", *value);
 }
 
 void how(void)
