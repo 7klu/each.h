@@ -25,7 +25,7 @@ Run the following command to install the library:
 ```bash
 sudo make
 ```
-This will copy **each.h** to **/usr/local/include/each.h**.
+This will copy **`each.h`** to **`/usr/local/include/each.h`**.
 
 To install it in a custom directory instead, use:
 
