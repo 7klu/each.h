@@ -17,8 +17,8 @@
  *
  * void testfunc(void *element)
  * {
- *     int *arr = (int *)element;
- *     printf("%d, ", *arr);
+ *     int *value = (int *)element;
+ *     printf("%d, ", *value);
  * }
  *
  * void how(void)
