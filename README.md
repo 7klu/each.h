@@ -16,7 +16,7 @@ void testfunc(void *element)
 void how(void)
 {
     int array[5] = {1, 2, 3, 4, 5};
-    foreach(array, eachs(array), testfunc);
+    foreach(array, arrsize(array), testfunc);
 }
 ```
 
