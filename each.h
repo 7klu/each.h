@@ -30,7 +30,7 @@
 
 /*
  * The `foreach` macro takes an array, its size, and a function to apply to each element.
- * The `arrsize` macro computes the size of a **static array** at compile-time.
+ * The `arrsize` macro computes the size of a static array at compile-time.
  * ⚠️ arrsize does not work with dynamically allocated arrays (malloc)
  */
 
